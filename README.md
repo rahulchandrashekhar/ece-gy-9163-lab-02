@@ -8,3 +8,5 @@ Steps to replicate this code
     2. test.h5 and valid.h5 from [here](https://drive.google.com/drive/folders/1_Q3g8Yzres8E4yRLwkO31fAMjTGNPo0i)
     3. bd_net.h5 and bd_weights.h5 from [here](https://github.com/csaw-hackml/CSAW-HackML-2020/tree/master/lab3/models)
 3. Cycle through the cells in the notebook rc4783_Homework_2.ipynb to evaluate.
+
+The accuray metrics can be found in the file ECE_GY_9163___Lab_2.pdf
